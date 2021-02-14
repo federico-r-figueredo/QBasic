@@ -1,0 +1,8 @@
+1) Ejecutar instalador de DOSBox
+2) Arrastrar "QB.EXE" en el acceso directo "DOSBox 0.74.lnk"
+
+3) Desde el menu superior del IDE BASIC abrir "Agenda.BAS"
+4) Ejecute con F5 
+5) Si desea pantalla completa presione  Alt + Enter
+ 
+6) Disfrute del primer programa que desarolle!!
